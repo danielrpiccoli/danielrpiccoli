@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**danielrpiccoli/danielrpiccoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focused on **Systems Security, Backend Engineering, and Infrastructure**. I build high-performance software, manage virtualized environments, and design enterprise monitoring labs.
 
-Here are some ideas to get you started:
+- 🛡️ **Current Focus:** DevSecOps, SIEM Deployment, and Infrastructure Security.
+- 💻 **Environment:** Arch Linux, Vim, Kitty, Git.
+- 🛠️ **Languages:** Java, C, Python, Bash, Dart, Julia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Featured Projects
+
+### 🛡️ Enterprise SIEM & Monitoring Lab
+* **What it is:** A fully virtualized Security Operations Center (SOC) lab simulating enterprise network environments.
+* **Tech:** Proxmox VE, Wazuh, Zabbix, Linux (Arch/Debian), Bash scripting.
+* **Key Focus:** Centralized log ingestion, real-time resource tracking, and isolated network virtualization.
+
+### 📱 Full-Stack Spring Boot & Flutter Ecosystem
+* **What it is:** A scalable cross-platform mobile/web application backed by an enterprise-grade API.
+* **Tech:** Java (Spring Boot), Flutter (Dart), PostgreSQL, RESTful APIs.
+* **Key Focus:** Strict Object-Oriented Design (OOP), state management, and relational database indexing.
+
+### 💣 Collaborative C Bomberman Game (5-Player Team)
+* **What it is:** A real-time, grid-based Bomberman clone built as a collaborative university project.
+* **Tech:** Pure C, Makefile, Git/GitHub, Low-level Memory Management.
+* **Key Focus:** Manual memory allocation (`malloc`/`free`), grid-collision logic, pointer manipulation, and cross-team Git workflow management.
+
+---
+
+## 📈 Activity & Proficiency
+
+```bash
+$ neofetch --skills
+daniel@github
+-------------
+Infrastructure: Proxmox VE, Docker, Linux SysAdmin
+Security/SIEM : Wazuh, Zabbix, Wireshark, Nmap
+Core Software : Backend Architecture, Git Workflow, Low-level Systems (C)
