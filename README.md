@@ -2,10 +2,6 @@
 
 I'm a Computer Science student focused on **Systems Security, Backend Engineering, and Infrastructure**. I develop full-stack applications, manage virtualized environments, and design enterprise monitoring labs.
 
-- **Current Focus:** DevSecOps, SIEM Deployment, and Infrastructure Security.
-- **Environment:** Arch Linux, Vim, Kitty, Git.
-- **Languages:** Java, C, Python, Bash, Dart, Julia.
-
 ### Featured Projects
 
 ### Enterprise SIEM & Monitoring Lab
