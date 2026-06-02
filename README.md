@@ -15,3 +15,5 @@ I'm a Computer Science student focused on **Systems Security, Backend Engineerin
 ### Collaborative C Bomberman Game (5-Player Team)
 * **What it is:** A real-time, grid-based Bomberman clone built as a collaborative university project.
 * **Tech:** Pure C, Makefile, Git/GitHub, Low-level Memory Management.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
