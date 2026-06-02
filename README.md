@@ -16,8 +16,5 @@ I'm a Computer Science student focused on **Systems Security, Backend Engineerin
 * **What it is:** A real-time, grid-based Bomberman clone built as a collaborative university project.
 * **Tech:** Pure C, Makefile, Git/GitHub, Low-level Memory Management.
 
-![](https://github.com/danielrpiccoli/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/danielrpiccoli/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/danielrpiccoli/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/danielrpiccoli/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
